@@ -5,6 +5,7 @@
 *.png
 *.xml
 *.jpg
+*.weights
 mnist/
 caffe/
 grasp/
