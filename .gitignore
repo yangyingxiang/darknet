@@ -3,8 +3,9 @@
 *.csv
 *.out
 *.png
+*.xml
+*.jpg
 mnist/
-data/
 caffe/
 grasp/
 images/
@@ -12,10 +13,8 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
-darknet
 .fuse*
-
+.idea/*
 # OS Generated #
 .DS_Store*
 ehthumbs.db
